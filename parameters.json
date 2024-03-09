@@ -1,5 +1,5 @@
 {
-    "authority": "https://login.microsoftonline.com/common",
+    "authority": "https://login.microsoftonline.com/<your tenant id>",
     "client_id": "enter your Application (Client) Id",
     "scope": ["User.Read"],
     "endpoint": "https://graph.microsoft.com/v1.0/me"
